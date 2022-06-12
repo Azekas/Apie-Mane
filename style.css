@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+body{
+    background: #121212;
+    color: blanchedalmond;
+    text-align: center;
+    font-family: Oxygen ;
+}
+h2{
+    font-size: 40px;
+    margin: auto;
+    max-width: 800px ;
+    font-weight: 300;
+    letter-spacing: 5px;
+    word-spacing: -5px;
+}
+p{
+    text-align: justify;
+    margin: auto;
+    max-width: 780px;
+    padding: 10px;
+}
+
+.heading {
+    border: 2px solid blanchedalmond;
+}
+
+.grey {
+    background: grey;
+}
+.border{
+    border: 2px solid blanchedalmond;
+}
+#text{
+    line-height: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+img{
+    width: 300px;
+    margin: 20px auto;
+    border-radius: 50%;
+}
+.ul{
+    margin: auto;
+    text-align: left;
+    border: 2px solid blanchedalmond;
+    max-width: 760px;
+}
+
+.ul{
+    background-color: #d4caa3 ;
+    color: black;
+}
+
